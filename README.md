@@ -11,6 +11,7 @@
 ## SOBRE O GOLPE
 ### • É informado: ID, NOME, PONTOS DE PODER (PP), EFEITOS DE ENTRADA
 
+### Código inteiramente feito por JavaScript e Node.js.
 ### Foi usada a biblioteca "fast-poke-fetch" como banco de dados e fonte de informações. 
 
 ![image](https://github.com/yurissz/pokemon-project/assets/138536805/96ce551c-83b2-4148-9e05-0ffbe504a269)
