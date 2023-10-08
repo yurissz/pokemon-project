@@ -5,7 +5,7 @@ O projeto a seguir é uma API REST para saber informações sobre o jogo e  tamb
 ### SOBRE O PÓKEMON:
  • É informado: ID, NOME, ALTURA, PESO, TIPO, HABILIDADES, 
 
-## SOBRE O ITEM
+### SOBRE O ITEM
 • É informado: ID, NOME, EFEITOS DE ENTRADA
 
 ### SOBRE O GOLPE
