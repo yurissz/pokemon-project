@@ -12,9 +12,9 @@ O projeto a seguir é uma API REST para saber informações sobre o jogo e  tamb
 • É informado: ID, NOME, PONTOS DE PODER (PP), EFEITOS DE ENTRADA
 
 ### Código
-Foi um projeto inteiramente feito por JavaScript e Node.js                                               
-Foi usada a biblioteca "fast-poke-fetch" como banco de dados e fonte de informações.                             
-Para executar, basta fazer o "git clone" do projeto, baixar as bibliotecas npm "express", "nodemon" e "fast-poke-fetch". Como parametro, coloque o nome do item, que em seguida vai te transmitir as devidas informações.
+• Foi um projeto inteiramente feito por JavaScript e Node.js                                               
+• Foi usada a biblioteca "fast-poke-fetch" como banco de dados e fonte de informações.                             
+• Para executar, basta fazer o "git clone" do projeto, baixar as bibliotecas npm "express", "nodemon" e "fast-poke-fetch". Como parametro, coloque o nome do item, que em seguida vai te transmitir as devidas informações.
 
 ![image](https://github.com/yurissz/pokemon-project/assets/138536805/7fe01139-6573-4503-9d82-21eb7bb02481)
 
