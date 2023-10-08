@@ -1,6 +1,6 @@
 ## API POKEMON
-O projeto a seguir é uma API REST para saber informações sobre o jogo e  também animação: Pokémon. 
- A partir dela é possivel saber informações sobre cada pokémon, seus itens e golpes envolvidos
+O projeto a seguir é uma API REST para saber informações sobre o jogo: Pokémon.   
+A partir dela é possivel saber informações sobre cada pokémon, seus itens e golpes envolvidos
 
 ### SOBRE O PÓKEMON:
  • É informado: ID, NOME, ALTURA, PESO, TIPO, HABILIDADES, 
